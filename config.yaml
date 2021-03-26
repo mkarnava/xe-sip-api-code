@@ -1,0 +1,26 @@
+cssm_connection: off
+api_keys:
+  client_id: 55f65e59-df52-4073-bb12-4268d5167019
+  client_secret: 78962244-9f2f-4e50-b233-f92adedd1e33
+  username: mkarnava
+  password: 68n1+_Z#
+#  app_uuid: cisco123
+  
+devices:
+#  -
+#    id: 1
+#    ip: 10.194.234.142
+#    username: cisco
+#    password: cisco
+  -
+    id: 2
+    ip: 10.194.234.144
+    username: test
+    password: test
+    
+#    ip: 172.25.212.187
+#    username: test
+#    password: test
+
+  
+
